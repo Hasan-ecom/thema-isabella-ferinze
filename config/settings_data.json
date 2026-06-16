@@ -166,8 +166,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "Free premium shipping",
-              "content": "<p>Always free shipping with Track & Trace with Royal Mail</p>"
+              "title": "Spedizione premium gratuita",
+              "content": "<p><strong>Spedizione sempre gratuita e tracciabile con Poste Italiane</strong></p>"
             }
           },
           "customer-support": {
@@ -179,8 +179,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "Customer service",
-              "content": "<p>Always available within 24 hours response</p>"
+              "title": "Servizio clienti",
+              "content": "<p>Sempre disponibili con risposta entro 24 ore</p>"
             }
           },
           "discount": {
@@ -236,8 +236,8 @@
               "image": "{{shop.brand.logo}}",
               "image_width": 150,
               "heading_size": "h3",
-              "title": "Get a chance to win £100 shopping credit",
-              "content": "<p>Every month we give £100 to one of our loyal Beyond Chic customers!</p>"
+              "title": "Hai la possibilità di vincere 100€ di credito per lo shopping",
+              "content": "<p><strong>Ogni mese regaliamo 100€ a uno dei nostri affezionati clienti Isabella Firenze!</strong></p>"
             }
           },
           "links": {
@@ -258,7 +258,7 @@
             "type": "text",
             "settings": {
               "title": "Need help?",
-              "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@beyondchiclondon.com<br/><br/>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+              "content": "<p><strong>Hai una domanda o hai bisogno di consigli? Non esitare a contattarci. Siamo qui per aiutarti e offrirti una consulenza esperta.</strong></p><p><strong>Email: </strong><a href=\"mailto:info@isabellafirenze.it\"><strong>info@isabellafirenze.it</strong></a><br/><br/><strong>Lun / Ven 09:00 - 17:00</strong><br/><strong>Sab / Dom 10:00 - 17:00</strong><br/></p>"
             }
           }
         },
