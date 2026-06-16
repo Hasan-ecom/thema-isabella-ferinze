@@ -289,29 +289,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Free premium shipping",
-            "content": "<p>We ship all our orders within the UK with Royal Mail. Do you order before 11 PM? Then your parcel will be sent the next day free of charge. So you will receive your order quickly and without extra costs!</p>"
+            "title": "Spedizione Premium Gratuita",
+            "content": "<p>Spediamo tutti i nostri ordini in Italia con Poste Italiane. Ordini entro le 23:00? Allora il tuo pacco verrà spedito il giorno successivo, gratuitamente. Così ricevi il tuo ordine in modo rapido e senza costi aggiuntivi!</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Returns",
-            "content": "<p>Not quite satisfied? No worries! You can easily and quickly return your order within 30 days of receipt. We make sure the process goes smoothly, so you don't have to worry.</p>"
+            "title": "Resi",
+            "content": "<p>Non sei del tutto soddisfatto? Nessun problema! Puoi restituire il tuo ordine in modo facile e veloce entro 30 giorni dal ricevimento. Pensiamo noi a far andare tutto liscio, così non devi preoccuparti di nulla.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Size",
-            "content": "<p>Our clothes fit exactly as indicated in the size chart. You will find the size chart with each product, so you can always choose the right size and be sure it fits perfectly.</p>"
+            "title": "Taglia",
+            "content": "<p>I nostri capi vestono esattamente come indicato nella guida alle taglie. Troverai la guida alle taglie su ogni prodotto, così puoi sempre scegliere la taglia giusta ed essere sicura che ti stia alla perfezione.</p>"
           }
         },
         "item_i7Uw3z": {
           "type": "item",
           "settings": {
-            "title": "Neede more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@beyondchiclondon.com<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "title": "Hai bisogno di ulteriore aiuto?",
+            "content": "<p><strong>Hai una domanda o hai bisogno di consigli? Non esitare a contattarci. Siamo qui per aiutarti e offrirti una consulenza esperta.</strong></p><p><strong>Email: </strong><a href=\"mailto:info@isabellafirenze.it\"><strong>info@isabellafirenze.it</strong></a><br/><br/><strong>Lun / Ven 09:00 - 17:00</strong><br/><br/><strong>Sab / Dom 10:00 - 17:00</strong></p>"
           }
         }
       },
