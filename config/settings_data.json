@@ -53,21 +53,21 @@
           "message": {
             "type": "message",
             "settings": {
-              "text": "FINAL SALE, EVERYTHING MUST GO",
+              "text": "SALDI FINALI, TUTTO DEVE SPARIRE",
               "url": ""
             }
           },
           "message_GNqkFX": {
             "type": "message",
             "settings": {
-              "text": "ORDER BEFORE 11:00 PM, SHIPPED TODAY",
+              "text": "ORDINA ENTRO LE 23:00, SPEDITO OGGI",
               "url": ""
             }
           },
           "message_CGMRrw": {
             "type": "message",
             "settings": {
-              "text": "LIMITED STOCK, ONCE IT'S GONE, IT'S GONE",
+              "text": "SCORTE LIMITATE, FINO A ESAURIMENTO",
               "url": ""
             }
           },

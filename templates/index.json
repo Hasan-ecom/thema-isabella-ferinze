@@ -250,7 +250,7 @@
         "image_GiUtXd": {
           "type": "image",
           "settings": {
-            "title": "About us",
+            "title": "La nostra storia",
             "heading_tag": "h4",
             "link_url": "shopify://pages/about-us",
             "link_text": "",
@@ -324,11 +324,11 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p>Answer to all your questions!</p>",
+        "title": "Domande frequenti",
+        "content": "<p>Risposte a tutte le tue domande!</p>",
         "team_avatar_width": 160,
-        "support_hours": "Mon / Fri 09:00 - 17:00Sat / Sun 10:00 - 17:00",
-        "answer_time": "Response within 24 hours",
+        "support_hours": "Lun / Ven 09:00 - 17:00Sab / Dom 10:00 - 17:00",
+        "answer_time": "Rispondiamo entro 24 ore",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
