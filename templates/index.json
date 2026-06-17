@@ -222,7 +222,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_16_jun_2026_18_48_59.png",
+            "image": "shopify://shop_images/ChatGPT_Image_4_jun_2026_11_48_57.png",
             "title": "Contacto",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -244,6 +244,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_17_jun_2026_19_11_39.png",
             "title": "Unisciti al nostro team",
             "heading_tag": "h4",
             "link_url": "shopify://pages/join-our-team",
@@ -265,6 +266,7 @@
         "image_GiUtXd": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_17_jun_2026_19_23_48.png",
             "title": "La nostra storia",
             "heading_tag": "h4",
             "link_url": "shopify://pages/about-us",
