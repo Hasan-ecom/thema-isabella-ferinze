@@ -53,42 +53,28 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection_NFrXEB": {
+        "collection_4YjpBH": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sneakers",
             "subheading": "",
-            "title": "Dresses",
-            "url": "shopify://collections/dresses-v-new",
-            "heading_tag": "h3",
+            "title": "Sneakers",
+            "url": "",
+            "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         },
-        "collection_8kjaBc": {
+        "collection_cTqaPY": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sandali-con-tacco",
             "subheading": "",
-            "title": "Blazers",
-            "url": "shopify://collections/blazers-v-new",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_AYhnCe": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "Shorts",
-            "url": "shopify://collections/short-skirts-v-new",
-            "heading_tag": "h3",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -97,9 +83,8 @@
         }
       },
       "block_order": [
-        "collection_NFrXEB",
-        "collection_8kjaBc",
-        "collection_AYhnCe"
+        "collection_4YjpBH",
+        "collection_cTqaPY"
       ],
       "settings": {
         "full_width": true,
