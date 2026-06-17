@@ -139,6 +139,7 @@
         "testimonial_8Cf8jf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -150,6 +151,7 @@
         "testimonial_atKPTr": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_2.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -161,6 +163,7 @@
         "testimonial_GwrVdP": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_3.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -172,6 +175,7 @@
         "testimonial_f6ALiy": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_4.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -183,6 +187,7 @@
         "testimonial_dyE34T": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_5.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -222,14 +227,14 @@
         "heading_FCaFJc": {
           "type": "heading",
           "settings": {
-            "text": "Beyond Chic London",
+            "text": "Isabella Firenze",
             "heading_tag": "h1"
           }
         },
         "richtext_TraPNg": {
           "type": "richtext",
           "settings": {
-            "content": "<p>For lovers of smart casual clothing</p>"
+            "content": "<p>Per chi ama lo smart casua</p>"
           }
         }
       },
@@ -255,8 +260,8 @@
         "item_XDfKQt": {
           "type": "item",
           "settings": {
-            "title": "Free premium shipping",
-            "content": "<p>We ship all our orders within the UK with Royal Mail. Do you order before 11 PM? Then your parcel will be sent the next day free of charge. So you will receive your order quickly and without extra costs!</p>"
+            "title": "Spedizione premium gratuita",
+            "content": "<p>Spediamo tutti gli ordini in Italia con Poste Italiane. Ordina entro le 23:00 e il tuo pacco partirà il giorno successivo, senza costi aggiuntivi. Ricevi il tuo ordine in modo rapido e senza spese extra!</p>"
           }
         },
         "item_7UVMKz": {
@@ -290,8 +295,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p>We're here to answer all your questions!</p>",
+        "title": "Domande frequenti",
+        "content": "<p><strong>Hai domande? Siamo qui per aiutarti!</strong></p>",
         "team_avatar_width": 160,
         "support_hours": "Our shop is open Mon / Fri 09:00 - 17:00 & Sat / Sun 10:00 - 17:00",
         "answer_time": "Response within 24 hours",
