@@ -53,12 +53,40 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection_4YjpBH": {
+        "collection_T8FzTp": {
           "type": "collection",
           "settings": {
             "collection": "sneakers",
             "subheading": "",
-            "title": "Sneakers",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6njKFB": {
+          "type": "collection",
+          "settings": {
+            "collection": "costumi-da-bagno",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_wXdR3n": {
+          "type": "collection",
+          "settings": {
+            "collection": "abiti",
+            "subheading": "",
+            "title": "",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -72,7 +100,7 @@
           "settings": {
             "collection": "sandali-con-tacco",
             "subheading": "",
-            "title": "",
+            "title": "Sandali con tacco",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -83,7 +111,9 @@
         }
       },
       "block_order": [
-        "collection_4YjpBH",
+        "collection_T8FzTp",
+        "collection_6njKFB",
+        "collection_wXdR3n",
         "collection_cTqaPY"
       ],
       "settings": {
