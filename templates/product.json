@@ -281,8 +281,8 @@
         "item_B3Pgdw": {
           "type": "item",
           "settings": {
-            "title": "Need more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@beyondchiclondon.com<br/><br/>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "title": "Hai bisogno di ulteriore aiuto?",
+            "content": "<p><strong>Hai una domanda o hai bisogno di un consiglio? Non esitare a contattarci. Siamo qui per assisterti e offrirti una consulenza esperta.</strong></p><p><strong>Email: </strong><a href=\"mailto:info@isabellafirenze.com\"><strong>info@isabellafirenze.com</strong></a><br/><br/><strong>Lun / Ven 09:00 - 17:00</strong><br/><br/><strong>Sab / Dom 10:00 - 17:00</strong></p>"
           }
         }
       },
