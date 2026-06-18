@@ -137,7 +137,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "apr-vrouwen",
-        "products": [],
+        "products": [
+          "antonia-bikini-floreale",
+          "beatriz-costume-elegante-doppia-spallina",
+          "chantal-scarpa-comodo-donna",
+          "delia"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
