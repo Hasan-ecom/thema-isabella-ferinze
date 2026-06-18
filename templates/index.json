@@ -201,7 +201,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "apr-mannen",
-        "products": [],
+        "products": [
+          "elena-costume-floreale-elegante",
+          "esra™-abito-casual-giornaliero",
+          "freya-sandalo-comfort-da-donna",
+          "isla-elegante-maxi-abito-con-motivo-floreale"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
