@@ -96,6 +96,14 @@
           "settings": {
             "collapse_content": false
           }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_9BwHik": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
         }
       },
       "block_order": [
@@ -110,7 +118,8 @@
         "liquid_z6LpBE",
         "feature_rating_e9piMR",
         "image_BirJDm",
-        "description"
+        "description",
+        "kiwi_size_chart_recommender_kiwi_sizing_9BwHik"
       ],
       "custom_css": [
         "button.button.button--xl {border-radius: 0px;}"
@@ -319,7 +328,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "apr-vrouwen",
-        "products": [],
+        "products": [
+          "angeli™-abito-midi-elegante",
+          "antonia-bikini-floreale",
+          "ashley™-abito-midi-fantasia-con-scollatura-a-v",
+          "carmen-bikini-tropicale-verde"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
